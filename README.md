@@ -1,2 +1,1 @@
-# meal_card
-Adding Meal Card Request Acceptance Buy clicking on a Link 
+Digitalizing the meal card acceptance through clicking on a link specified by the HR Dept.
